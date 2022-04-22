@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mehrshadj3
-- 👀 I’m interested in CS and prorgaming games, applications, and websites.
-- 🌱 I’m currently learning Python. 
+- 👋 Hi, I’m Marshall Jav.
+- 👀 I'm working on variuos feilds of software developing specially prorgaming games, applications, and websites.
+- 🌱 I’m currently learning Python, PHP and other programming skills to become a better full_stack developer. 
 - 💞️ I’m looking to collaborate on small- medium tech related projects based on Python and share experience.
 - 📫 How to reach me: mehrshaddd3@gmail.com
 
